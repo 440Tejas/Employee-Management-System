@@ -29,7 +29,7 @@ import com.ems.service.EmployeeDetailsService;
 import com.ems.serviceImpl.EmployeServiceImpl;
 import com.ems.serviceImpl.EmployeeDetailsServiceImpl;
 
-@Controller
+@Controller  
 public class AdminController {
 
 	private EmployeeDetailsService employeeDetailsService = new EmployeeDetailsServiceImpl();
