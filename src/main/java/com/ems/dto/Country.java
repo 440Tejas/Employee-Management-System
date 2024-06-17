@@ -5,6 +5,7 @@ public class Country {
 	private String countryId;
 	private String name;
 	private Integer regionId;
+	private String state;
 	
 	
 	
