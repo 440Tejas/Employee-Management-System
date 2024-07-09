@@ -3,7 +3,7 @@ package com.ems.dto;
 public class Country {
 	
 	private String countryId;
-	private String name   ;
+	private String name;
 	private Integer regionId;
 	private String stateID;
 	
