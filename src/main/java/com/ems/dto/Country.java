@@ -6,7 +6,6 @@ public class Country {
 	private String name;
 	private Integer regionId;
 	private String state;
-	private String GDP;
 	
 	
 	
