@@ -18,7 +18,7 @@ import com.ems.dto.Region;
 import com.mysql.cj.x.protobuf.MysqlxDatatypes.Scalar.String;
 
 @Repository
-public class DetailsDao {
+public class DetailsDao { 
 	Logger logger = Logger.getLogger(DetailsDao.class.getName());
 	
 	DbConnection connect = new DbConnection();
